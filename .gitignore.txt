@@ -1,2 +1,2 @@
-test.sublime-project
-test.sublime-workspace
+test.sublime-project.json
+test.sublime-workspace.json

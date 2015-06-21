@@ -739,8 +739,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								337,
+								337
 							]
 						],
 						"settings":
@@ -872,7 +872,7 @@
 		[
 			[
 				"",
-				"E:\\Sublime Text\\joinfun.sublime-project"
+				"E:\\Web\\Skoko\\skokov.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -886,7 +886,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
