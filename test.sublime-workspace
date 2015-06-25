@@ -408,6 +408,14 @@
 			}
 		},
 		{
+			"file": "test.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"contents": "h1 {\n	color: red;\n	font-size: 20px;\n	line-height: 30px;\n}",
 			"file": "style.css",
 			"file_size": 61,
@@ -757,6 +765,38 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monarch (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 1,
 					"type": "text"
 				}
@@ -767,7 +807,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "style.css",
 					"semi_transient": false,
 					"settings":
@@ -796,7 +836,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -872,7 +912,7 @@
 		[
 			[
 				"",
-				"E:\\Web\\eidos\\work.sublime-project"
+				"E:\\Web\\cuda\\cuda.sublime-project"
 			]
 		],
 		"width": 380.0
